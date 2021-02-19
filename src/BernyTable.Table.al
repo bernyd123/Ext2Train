@@ -38,7 +38,7 @@ table 50100 BernyTable
 
     trigger OnDelete()
     begin
-
+        Message('Do not just delete files.');
     end;
 
     trigger OnRename()
