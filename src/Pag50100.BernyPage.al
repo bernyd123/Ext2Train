@@ -14,6 +14,7 @@ page 50101 "Berny Page"
                 field(No; Rec.No)
                 {
                     ApplicationArea = All;
+                    ToolTip = 'THis is a Tooltip';
                 }
                 field(Name; Rec.Name)
                 {
