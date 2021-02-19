@@ -1,10 +1,10 @@
-page 50100 "Berny Page"
+page 50101 "Berny Page"
 {
-    
+
     Caption = 'Berny Page';
     PageType = Card;
     SourceTable = BernyTable;
-    
+
     layout
     {
         area(content)
@@ -22,5 +22,5 @@ page 50100 "Berny Page"
             }
         }
     }
-    
+
 }
