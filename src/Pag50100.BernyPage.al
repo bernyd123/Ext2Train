@@ -14,6 +14,7 @@ page 50101 "Berny Page"
                 field(No; Rec.No)
                 {
                     ApplicationArea = All;
+                    ToolTip = 'Maybe we will see a conflict.'
                 }
                 field(Name; Rec.Name)
                 {
